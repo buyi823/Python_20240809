@@ -1,0 +1,105 @@
+Resume
+
+Personal Information:
+
+Name: Xu Linlin
+Gender: Male
+Age: 39
+Phone: 13488359081
+Email: xulinlin123@foxmail.com
+Work Experience: 16 years
+Job Objective: Software Testing
+Preferred Location: Xi'an
+Work Experience
+Wuhan Chengyu IoT Technology Co., Ltd., Xi'an Branch
+Position: Test Manager
+Duration: June 2022 - July 2024
+
+Work Experience
+Wuhan Chengyu IoT Technology Co., Ltd., Xi'an Branch
+Position: Test Manager
+Duration: June 2022 - July 2024
+
+Developed and executed comprehensive test plans to ensure the efficient and accurate testing processes for NB, CAT1, CAT4, and other modules.
+Effectively coordinated testing resources, optimized team workload, and improved testing efficiency.
+Led version review meetings, ensuring that software versions met company standards, and authored detailed test reports to support project decisions.
+Organized various special tests, including network registration, power consumption, reliability, and automated tests.
+Maintained and updated test case libraries for certain projects, ensuring the timeliness and coverage of test cases.
+Systematically summarized module testing experiences and created testing knowledge documents to promote knowledge sharing within the team.
+Regularly participated in team training sessions to enhance the professional skills and problem-solving abilities of the testing team.
+Actively assisted FAEs in resolving customer technical issues to improve customer satisfaction.
+
+
+
+
+KaiCom Technologies (Shanghai) Co., Ltd.
+
+Position: Quality Management/Testing
+Duration: December 2019 - May 2022
+
+Collaborated with product managers, UX teams, and RD teams to define and review system requirements, design test cases, execute tests, and produce test reports.
+Responsible for testing the KaiOS system's front-end and back-end services, including system stress, Monkey, and performance tests.
+Executed detailed testing processes to meet the specific standards and performance requirements of major carriers such as Verizon, Jio, and T-mobile.
+Effectively coordinated outsourced testing teams, supervised and guided them to complete various testing tasks, ensuring the continuity and quality of the testing work.
+Authored various testing documents.
+Nubia Technology Co., Ltd.
+Position: Test Engineer
+Duration: October 2018 - December 2019
+
+Led the testing team to ensure that team members completed scheduled testing tasks on time, and conducted performance evaluations.
+Developed detailed test plans, assigned testing tasks, monitored project progress, and regularly wrote and submitted test reports.
+Actively participated in requirement analysis meetings, designing and implementing test cases from the early stages to ensure comprehensive coverage of all functionalities.
+Utilized company-provided automated testing tools to perform various automated tests, including but not limited to Monkey testing and memory leak detection.
+Organized and participated in test review meetings, analyzing problems encountered during testing, proposing improvement measures, and optimizing testing processes and methods.
+Shenzhen Wanzhen Era Communications Technology Co., Ltd.
+Position: Test Manager
+Duration: August 2014 - September 2018
+
+Led the team to complete mobile phone testing for different channels (e.g., Yunnan Public Security Bureau, Xinjiang Public Security Bureau).
+Responsible for foundational network entry testing of mobile phones and organizing and implementing China Mobile's entry testing; traveled to Guangzhou to support China Telecom's entry testing.
+Authored multiple versions of user manuals and technical documents to train after-sales engineers and improve service quality.
+Participated in product promotion activities in various regions, effectively increasing product market recognition.
+ZTE Corporation
+Position: Software Tester
+Duration: July 2011 - August 2014
+
+Conducted black-box testing of mobile software, ensuring software quality, and timely submission and tracking of identified bugs.
+Participated in multiple China Mobile entry testing projects.
+Performed mobile performance testing, including Monkey testing and endurance evaluation, ensuring product stability.
+Responsible for mobile CTS testing, authored detailed test reports, and closely collaborated with the R&D team to solve technical challenges.
+Utilized both self-developed and third-party automated testing tools to conduct MTBF testing.
+Key Achievements
+NB-IOT, CAT1, CAT4 Communication Modules (Test Manager)
+Wuhan Chengyu IoT Technology Co., Ltd., Xi'an Branch
+Duration: June 2022 - July 2024
+
+Organized and managed testing for all NT-IOT series and some CAT1 and CAT4 modules, overseeing the entire process from requirements analysis and review to test execution and report generation.
+Conducted module performance, reliability, and automated testing across all business modules, including wireless communication, near-field communication, IoT protocols, and cloud services.
+KaiOS Operating System and System Support Services (Quality Assurance)
+KaiCom Technologies (Shanghai) Co., Ltd.
+Duration: December 2019 - May 2022
+
+Conducted system front-end and back-end service testing, including automated testing (Monkey and MTBF), performance testing, memory testing, and specific carrier custom tests for T-Mobile, Verizon, and Reliance.
+Nubia Red Magic Gaming Phone, Dual-Screen Phone, Flexible Screen Wristband
+Nubia Technology Co., Ltd.
+Duration: October 2018 - December 2019
+
+Developed and implemented test plans for new requirements, conducted functional tests, and authored test reports for Red Magic gaming phones, dual-screen phones, and flexible screen wristbands.
+Wanzhen Era Dual-System Security Phone
+Shenzhen Wanzhen Era Communications Technology Co., Ltd.
+Duration: September 2014 - October 2018
+
+Led the testing team to complete testing for various mobile phone versions and compiled multiple technical documents to train after-sales engineers.
+ZTE Multiple Mobile Products
+ZTE Corporation
+Duration: July 2011 - August 2014
+
+Conducted testing for multiple ZTE feature phones and smartphones, covering wireless module testing (Wi-Fi, Bluetooth, GPS) and local functional module testing, as well as mobile CTS, Monkey, endurance, and power consumption tests.
+Education
+Xi'an Jiaotong University, Online Education College
+Bachelor's Degree in Computer Science and Technology
+Duration: 2019 - 2021
+
+Xi'an University of Electronic Science and Technology
+Associate Degree in Computer Information Management
+Duration: 2004 - 2007
